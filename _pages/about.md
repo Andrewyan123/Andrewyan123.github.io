@@ -14,3 +14,11 @@ redirect_from:
 - My research points consist of Large Language Models (LLMs), Knowledge Distillation and Complex Reasoning in LLMs.
 - I have published some research papers at ACL, EMNLP, WWW, etc., including Knowledge-enhanced Pre-trained Language Models, Knowledge Distillation for Large Models and Enhancing Mathematical and Logical Reasoning in Large Models. More details can be found in [Publications](https://andrewyan123.github.io/publications/) and [Projects](https://andrewyan123.github.io/projects/).
 - I had some internship experiences, including working as a research intern at Alibaba PAI Platform (Aug. 2022 - Jun. 2024), where I participated in the development of the EasyNLP project and conducted research related to large knowledge models.
+
+News
+======
+
+* [2025-05-29] The EasyDistill has been released in [https://github.com/modelscope/easydistill](https://github.com/modelscope/easydistill). 🔥🔥🔥
+* [2025-05-20] Our reasoning dataset and models have been released in HuggingFace: [https://huggingface.co/datasets/alibaba-pai/OmniThought](https://huggingface.co/datasets/alibaba-pai/OmniThought) and [https://huggingface.co/alibaba-pai/DistilQwen-ThoughtX-32B](https://huggingface.co/alibaba-pai/DistilQwen-ThoughtX-32B).
+* [2025-05-16] Our new paper has been released in ArXiv: [Reasoning with OmniThought: A Large CoT Dataset with Verbosity and Cognitive Difficulty Annotations](https://arxiv.org/abs/2505.10937). 🔥🔥🔥
+* [2025-05-11] Our one paper has been accepted to ACL 2025.
