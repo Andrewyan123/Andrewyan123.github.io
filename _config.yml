@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jianing Wang (王嘉宁)"
+title                    : "Junbing Yan (严俊冰)"
 title_separator          : "-"
-name                     : &name "Jianing Wang"
+name                     : &name "Junbing Yan"
 description              : &description "personal description"
-url                      : https://wjn1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://andrewyan123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wjn1996/wjn1996.github.io"
+repository               : "Andrewyan123/Andrewyan123.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianing Wang" # Your Sidebar Name
+  name             : "Junbing Yan" # Your Sidebar Name
   avatar           : "profile.png"
-  bio              : "NLP & Knowledge Graph"
-  location         : "Shanghai, China"
-  employer         : "East China Normal University"
+  bio              : "NLP & Knowledge Distilation"
+  location         : "Hangzhou, China"
+  employer         : "Alibaba Cloud"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ccaimI8AAAAJ&hl=en"
-  email            : "lygwjn@gmail.com"
+  googlescholar    : 
+  email            : "757105156@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wjn1996"
+  github           : "Andrewyan123"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6006-053X"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
