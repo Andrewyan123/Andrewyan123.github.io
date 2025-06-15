@@ -19,6 +19,6 @@ News
 ======
 
 * [2025-05-29] The EasyDistill has been released in [https://github.com/modelscope/easydistill](https://github.com/modelscope/easydistill). 🔥🔥🔥
-* [2025-05-20] Our reasoning dataset and models have been released in HuggingFace: [https://huggingface.co/datasets/alibaba-pai/OmniThought](https://huggingface.co/datasets/alibaba-pai/OmniThought) and [https://huggingface.co/alibaba-pai/DistilQwen-ThoughtX-32B](https://huggingface.co/alibaba-pai/DistilQwen-ThoughtX-32B).
+* [2025-05-20] Our reasoning dataset and models have been released in HuggingFace: [https://huggingface.co/datasets/alibaba-pai/OmniThought](https://huggingface.co/datasets/alibaba-pai/OmniThought) and [https://huggingface.co/alibaba-pai/DistilQwen-ThoughtX-32B](https://huggingface.co/alibaba-pai/DistilQwen-ThoughtX-32B). 🔥🔥🔥
 * [2025-05-16] Our new paper has been released in ArXiv: [Reasoning with OmniThought: A Large CoT Dataset with Verbosity and Cognitive Difficulty Annotations](https://arxiv.org/abs/2505.10937). 🔥🔥🔥
 * [2025-05-11] Our one paper has been accepted to ACL 2025.
