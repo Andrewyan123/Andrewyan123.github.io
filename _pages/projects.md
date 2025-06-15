@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## EasyDistill Open-source Toolkit
+* Paper: [[pdf](https://arxiv.org/pdf/2505.20888)].
+* Project Link: [https://github.com/modelscope/easydistill](https://github.com/modelscope/easydistill).
+* Time: From 2025-05-29 to Now.
+
 ## EasyNLP Open-source Toolkit
 * Paper: [[pdf](https://aclanthology.org/2022.emnlp-demos.3.pdf)].
 * Project Link: [https://github.com/alibaba/EasyNLP](https://github.com/alibaba/EasyNLP).
