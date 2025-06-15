@@ -81,13 +81,6 @@ Nuo Chen, Qiushi Sun, **Jianing Wang**, Xiaoli Li, Xiang Li, Ming Gao
 The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Findings Paper)
 
 
-- **HugNLP: A Unified and Comprehensive Library for Natural Language Processing** [[pdf](https://arxiv.org/pdf/2302.14286)][[bib](https://dblp.org/rec/journals/corr/abs-2302-14286.html?view=bibtex)]
-<br>
-**Jianing Wang**, Nuo Chen, Qiushi Sun, Wenkang Huang, Chengyu Wang, Ming Gao.
-<br>
-32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**, Demo Paper, **Best Demo Paper Award**)
-
-
 - **ParaSum: Contrastive Paraphrasing for Low-resource Extractive Text Summarization** [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-40289-0_9)][[bib](https://dblp.org/rec/conf/ksem/TangWWCGQ23.html?view=bibtex)]
 <br>
 Moming Tang, Chengyu Wang, **Jianing Wang**, Cen Chen, Ming Gao and Weining Qian

@@ -15,19 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-
-## HugNLP Open-source Library
-* Paper: [[HugNLP](https://arxiv.org/pdf/2302.14286)].
-* Project Link: [https://github.com/HugAILab/HugNLP](https://github.com/HugAILab/HugNLP).
-* HugNLP homepage: [https://github.com/wjn1996/](https://github.com/wjn1996/HugNLP)
-* Time: From 2023-01-01 to Now.
-
-> HugNLP is a novel development and application library based on Hugging Face for improving the convenience and effectiveness of NLP researchers.
-
-> HugNLP consists of a hierarchical structure including models, processors and applications that unifies the learning process of pre-trained language models (PLMs) on different NLP tasks.
-Additionally, we present some featured NLP applications to show the effectiveness of HugNLP, such as knowledge-enhanced PLMs, ChatGPT-like model (HugCHat), universal information extraction (HugIE), low-resource mining, and code understanding and generation, etc.
-
-
 ## EasyNLP Open-source Toolkit
 * Paper: [[pdf](https://aclanthology.org/2022.emnlp-demos.3.pdf)].
 * Project Link: [https://github.com/alibaba/EasyNLP](https://github.com/alibaba/EasyNLP).

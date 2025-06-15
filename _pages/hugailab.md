@@ -7,26 +7,16 @@ author_profile: true
 #   - /markdown.html
 ---
 
-
-
 <div class="jumbotron">
     <p>
-        The <b>HugAI Lab</b> is found by <a href="https://wjn1996.github.io">Jianing Wang</a> at the <b>East China Normal University</b> in 23-04-13. Our group is an open and working on some related research works on natural language processing (NLP) and machine learning (ML), focusing on prompt-based learning, large language models, low-resource learning. We have developed a unified and comprehensive <a href="https://github.com/HugAILab/HugNLP">HugNLP</a> library for improve convenience of research and development.
+        The <b>HugAI Lab</b> is found by <a href="https://wjn1996.github.io">Jianing Wang</a> at the <b>East China Normal University</b> in 23-04-13. Our group is an open and working on some related research works on natural language processing (NLP) and machine learning (ML), focusing on prompt-based learning, large language models, low-resource learning.
     </p>
     <p>
-      HugAI Lab是一个开放的虚拟的组织，致力于开源AI项目，目前正在开发<a href="https://github.com/HugAILab/HugNLP">HugNLP</a>项目。HugAI Lab欢迎来自五湖四海各行各业的AI爱好者参与到开源项目。
+      HugAI Lab是一个开放的虚拟的组织，致力于开源AI项目。HugAI Lab欢迎来自五湖四海各行各业的AI爱好者参与到开源项目。
     </p>
 </div>
 
-## Hot Projects
-
-<a href="https://github.com/HugAILab/HugNLP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wjn1996&repo=HugNLP&theme=buefy" />
-</a>
-
-
 ## Groups
-
 
 | People  | Join Time   |  Introduction  |
 | ---   | --- | --- |
