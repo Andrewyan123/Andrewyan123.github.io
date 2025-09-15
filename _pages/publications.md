@@ -23,7 +23,7 @@ author_profile: true
 <br>
 Wenrui Cai, Chengyu Wang, **Junbing Yan**, Jun Huang, Xiangzhong Fang
 <br>
-The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**, Main Paper, **Oral(5%)**)
+The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**, **Oral(5%)**, Main Paper)
 
 - **Thinking with DistilQwen: A Tale of Four Distilled Reasoning and Reward Model Series** [[pdf](https://arxiv.org/pdf/2505.10937)]
 <br>
