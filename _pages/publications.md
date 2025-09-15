@@ -19,15 +19,23 @@ author_profile: true
 
 ## 2025
 
-- **EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models** [[pdf](https://arxiv.org/pdf/2505.20888)]
-<br>
-Chengyu Wang, **Junbing Yan**, Wenrui Cai, Yuanhao Yue, Jun Huang
-<br> Arxiv
-
 - **Reasoning with OmniThought: A Large CoT Dataset with Verbosity and Cognitive Difficulty Annotations** [[pdf](https://arxiv.org/pdf/2505.10937)]
 <br>
 Wenrui Cai, Chengyu Wang, **Junbing Yan**, Jun Huang, Xiangzhong Fang
-<br> Arxiv
+<br>
+The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**, Main Paper, **Oral(5%)**)
+
+- **Thinking with DistilQwen: A Tale of Four Distilled Reasoning and Reward Model Series** [[pdf](https://arxiv.org/pdf/2505.10937)]
+<br>
+Wenrui Cai, Chengyu Wang, **Junbing Yan**, Jun Huang, Xiangzhong Fang
+<br>
+The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**, Industry Paper)
+
+- **EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models** [[pdf](https://arxiv.org/pdf/2505.20888)]
+<br>
+Chengyu Wang, **Junbing Yan**, Wenrui Cai, Yuanhao Yue, Jun Huang
+<br>
+The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**, System Paper)
 
 - **DistilQwen2.5: Industrial Practices of Training Distilled Open Lightweight Language Models** [[pdf](https://arxiv.org/pdf/2504.15027)][[bib](https://dblp.org/rec/journals/corr/abs-2504-15027.html?view=bibtex)]
 <br>
